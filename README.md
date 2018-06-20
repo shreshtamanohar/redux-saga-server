@@ -3,8 +3,7 @@
 ## About
 This server is meant to mock the functionality of a real shopping application's back-end services. It comes ready-made and complete, but with no front-end application to consume its APIs. That task is left to you.
 
-### Demographics
-This application is meant to be used by, but not limited to, students completing Daniel Stern's Redux Saga course on Pluralsight.
+
 
 ### Usage
 1. Install dependencies: `npm install`
